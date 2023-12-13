@@ -82,6 +82,9 @@ const getComentarios = function () {
 };
 
 console.log(getCliente());
+console.log(getCategorias())
+console.log(getProdutos())
+console.log(getComentarios())
 
 module.exports = {
     getCategorias,
