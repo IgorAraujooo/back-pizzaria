@@ -18,7 +18,7 @@ var clientes = {
             telefone: '1898765432',
             endereco: 'Rua ABC, Bairro B, Osasco',
             cidade: 'Osasco-SP',
-            img: './img/juliana.png'
+            img: './img/julia.png'
         },
         {
             id: '3',
@@ -28,7 +28,7 @@ var clientes = {
             telefone: '2197778888',
             endereco: 'Rua UVW, Bairro C, Cotia',
             cidade: 'Cotia-SP',
-            img: './img/fernando.png'
+            img: './img/igor.png'
         },
         {
             id: '4',
@@ -38,7 +38,7 @@ var clientes = {
             telefone: '112226666',
             endereco: 'Rua LMN, Bairro D, Barueri',
             cidade: 'Barueri-SP',
-            img: './img/ana.png'
+            img: './img/luan.png'
         },
         {
             id: '5',
@@ -48,7 +48,7 @@ var clientes = {
             telefone: '8290001111',
             endereco: 'Rua XYZ, Bairro E, São Roque',
             cidade: 'São Roque-SP',
-            img: './img/rodrigo.png'
+            img: './img/giovana.png'
         }
     ]
 }
